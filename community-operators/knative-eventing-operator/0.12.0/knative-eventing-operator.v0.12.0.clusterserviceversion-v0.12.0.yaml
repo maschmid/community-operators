@@ -30,6 +30,7 @@ spec:
         displayName: Version
         path: version
       version: v1alpha1
+  minKubeVersion: 1.15.0
   description: |
     Knative Eventing is designed to address a common need for cloud
     native development:
